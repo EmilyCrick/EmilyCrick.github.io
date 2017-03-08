@@ -1,3 +1,26 @@
 body {
-	background: blue;
+	background:  white;
+	text-align: center;
 }
+header {
+	font-family: 'Lobster', cursive;
+	 background: url('http://dash.ga.co/assets/jeff-bg.png');
+	 background-size: cover;
+	 margin: 30px 10px 0px 0px;
+	 padding-top: 250px;
+	 text-align: center;
+}
+h1 {font-size: 70px;
+}
+ li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
+     ul {
+      padding: 10px;
+      background: rgba(0, 0, 0, 0.5);
+    }
+    body {
+    	text-align: left;
+    	background: white;
+    }
